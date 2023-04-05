@@ -1,0 +1,11 @@
+colours names
+1.violet
+2.sea green
+3.sky blue
+4.navy blue
+5.dark violet
+6.grey
+7.gold colour
+8.peach
+9.brown
+10.parrot green
